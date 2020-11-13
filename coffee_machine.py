@@ -1,4 +1,4 @@
-# Raw example how CoffeMachine would work in life.
+# Raw example of how CoffeeMachine would work in life.
 
 class CoffeeMachine:
 
