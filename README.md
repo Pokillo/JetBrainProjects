@@ -1,3 +1,3 @@
 # JetBrainProjects
 
-# This is my projects that I finished in JetBrainAcademy. 
+# These are the projects that I finished in JetBrainAcademy.
